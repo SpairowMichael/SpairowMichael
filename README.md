@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning C#
 - 📫 How to reach me: Discord spairow_
 - 😄 Pronouns: helicopter
+- I want develop games
 
 <!---
 SpairowMichael/SpairowMichael is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
